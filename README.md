@@ -3,20 +3,18 @@
 
 
 <div align="center">
+  <img  src="https://raw.githubusercontent.com/hebertdev/hebertdev/master/img/javascript.gif" />
+  <a href="https://fb.com/giancarlos.ms">
+  <img align="left" alt="Gian Carlos - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+
+  <a href="https://www.instagram.com/hebertdev1/">
+  <img align="left" alt="Gian Carlos - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=gian-sosa.visitor-badge)
   <a href="https://github.com/gianc-sosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gian-sosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gian-sosa&layout=compact&langs_count=7&theme=dracula"/>
-    <img  src="https://raw.githubusercontent.com/hebertdev/hebertdev/master/img/javascript.gif" />
-
-<a href="https://fb.com/giancarlos.ms">
-  <img align="left" alt="Gian Carlos - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<a href="https://www.instagram.com/hebertdev1/">
-  <img align="left" alt="Gian Carlos - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=gian-sosa.visitor-badge)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
