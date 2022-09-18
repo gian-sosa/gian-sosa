@@ -1,8 +1,6 @@
 ### Hi there 👋
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=gian-sosa.visitor-badge)
 <img  src="https://raw.githubusercontent.com/hebertdev/hebertdev/master/img/javascript.gif" />
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 
 <!--
 **gian-sosa/gian-sosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
