@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img  src="https://raw.githubusercontent.com/hebertdev/hebertdev/master/img/javascript.gif" />
-![](https://visitor-badge.glitch.me/badge?page_id=hebertdev1.hebertdev1)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=gian-sosa&left_color=green&right_color=red)
 
 <!--
 **gian-sosa/gian-sosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
