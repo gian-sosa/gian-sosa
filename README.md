@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hola a todos, Bienvenidos! 👋
+
+<a href="https://fb.com/giancarlos.ms">
+  <img align="left" alt="Gian Carlos - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
+<a href="https://www.instagram.com/hebertdev1/">
+  <img align="left" alt="Gian Carlos - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=gian-sosa.visitor-badge)
+
 <img  src="https://raw.githubusercontent.com/hebertdev/hebertdev/master/img/javascript.gif" />
 
 <!--
