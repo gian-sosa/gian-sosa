@@ -20,7 +20,6 @@
   <img align="center" alt="Gian-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gian-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Gian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br><br>
-  <p align="center"> <img align="center" src="https://profile-counter.glitch.me/gian-sosa/count.svg" /></p>
 </div>
 
 <!--
