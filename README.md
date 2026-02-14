@@ -22,7 +22,7 @@
   <img align="center" alt="Gian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br><br>
 </div>
 
-<!--
+
 <div align="center">
   <a href="https://github.com/gian-sosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gian-sosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--->
+<!-- -->
