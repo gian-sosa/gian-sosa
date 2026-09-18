@@ -12,9 +12,7 @@
 
 <!-- Profile views -->
 
-# Hello Folks! <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30">
  <!-- Profile views -->
- <img src="https://gpvc.arturio.dev/rahulkarda" align="center">
  <img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="right" height="300">
  
  <p align="left">My name is Gian Carlos, and I am a Systems Engineering student at San Cristóbal University.
