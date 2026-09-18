@@ -1,7 +1,7 @@
 <div align="center">
   <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hola, mi nombre es Gian Carlos</h1>
+  <h1> Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
   <img  src="https://raw.githubusercontent.com/hebertdev/hebertdev/master/img/javascript.gif" />
   <!-- <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> -->
 </div>
@@ -15,9 +15,9 @@
  <!-- Profile views -->
  <img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="right" height="300">
  
- <p align="left">My name is Gian Carlos, and I am a Systems Engineering student at San Cristóbal University.
+ <p align="left">👨 My name is Gian Carlos, and I am a Systems Engineering student at San Cristóbal University.
   
-  I'm from Perú, living in Ayacucho and currently studying Systems Engineering.
+  📍 I'm from Perú, living in Ayacucho.
   
 <!--   I am motivated by the power of technology as a tool for positive change. -->
 </p>
