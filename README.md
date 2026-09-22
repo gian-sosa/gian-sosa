@@ -19,7 +19,6 @@
   
   📍 I'm from Perú, living in Ayacucho.
   
-<!--   I am motivated by the power of technology as a tool for positive change. -->
 </p>
 
 <!--  <br> <br>
@@ -29,7 +28,7 @@
 
 👯 I’m looking to collaborate on different projects.
 
-📫You can reach me at gian.mallqui.27@unsch.edu.pe
+📫You can reach me at gian.mallqui.27@unsch.edu.pe.
 
 ⚡ Fun fact  - I like astronomy and traveling.
 
