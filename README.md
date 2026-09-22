@@ -25,7 +25,7 @@
 <!--  <br> <br>
  -->
 
-🌱 I’m currently learning React, NextJS and TailwindCSS
+🌱 I’m currently learning React, NextJS and TailwindCSS.
 
 👯 I’m looking to collaborate on different projects
 
