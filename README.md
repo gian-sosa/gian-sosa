@@ -27,7 +27,7 @@
 
 🌱 I’m currently learning React, NextJS and TailwindCSS.
 
-👯 I’m looking to collaborate on different projects
+👯 I’m looking to collaborate on different projects.
 
 📫You can reach me at gian.mallqui.27@unsch.edu.pe
 
