@@ -30,7 +30,7 @@
 
 📫You can reach me at gian.mallqui.27@unsch.edu.pe.
 
-⚡ Fun fact  - I like astronomy and traveling.
+⚡ Fun fact  - I like vibecoding and artificial intelligence.
 
 <br>
 
