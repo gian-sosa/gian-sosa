@@ -28,7 +28,7 @@
 
 👯 I’m looking to collaborate on different projects.
 
-📫You can reach me at gian.mallqui.27@unsch.edu.pe.
+📫 You can reach me at gian.mallqui.27@unsch.edu.pe.
 
 ⚡ Fun fact  - I like vibecoding and artificial intelligence.
 
