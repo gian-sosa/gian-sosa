@@ -15,7 +15,7 @@
  <!-- Profile views -->
  <img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="right" height="300">
  
- <p align="left">👨 My name is Gian Carlos, and I am a Systems Engineering student at San Cristóbal University.
+ <p align="left">👨 My name is Gian Carlos and I am a Systems Engineering student at San Cristóbal University.
   
   📍 I'm from Perú, living in Ayacucho.
   
