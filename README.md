@@ -17,7 +17,7 @@
  
  <p align="left">👨 My name is Gian Carlos and I am a Systems Engineering student at San Cristóbal University.
   
-  📍 I'm from Perú, living in Ayacucho.
+  📍 I'm from Perú, living in Huamanga, Ayacucho.
   
 </p>
 
