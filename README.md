@@ -24,7 +24,7 @@
 <!--  <br> <br>
  -->
 
-🌱 I’m currently learning React, NextJS, TailwindCSS and Cloudflare.
+🌱 I’m currently learning React, NextJS, TailwindCSS, Cloudflare and AWS.
 
 👯 I’m looking to collaborate on different projects.
 
